@@ -1,4 +1,4 @@
-import { Header } from '@brandons/component-library'
+import { Header } from '@stratify-commerce/component-library'
 
 export default function App() {
   return (

@@ -8,8 +8,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "allowScripts": {
+    "@stratify-commerce/component-library@0.1.0": true
+  },
   "dependencies": {
-    "@brandons/component-library": "github:stratify-commerce/react-component-library",
+    "@stratify-commerce/component-library": "github:stratify-commerce/react-component-library",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
